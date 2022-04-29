@@ -7,8 +7,3 @@ func go_print_alphabet() {
 		go_putchar(i)
 	}
 }
-
-func main() {
-
-	go_print_alphabet()
-}
